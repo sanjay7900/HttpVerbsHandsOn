@@ -1,0 +1,1 @@
+D:\aspdotnet\CSharpOPPsRepo\MyFirstWebApi\.sonarqube\out\0

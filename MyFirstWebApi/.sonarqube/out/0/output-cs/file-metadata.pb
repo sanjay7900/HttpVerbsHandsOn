@@ -1,0 +1,9 @@
+[
+RD:\aspdotnet\CSharpOPPsRepo\MyFirstWebApi\Controllers\WeatherForecastController.csutf-8>
+5D:\aspdotnet\CSharpOPPsRepo\MyFirstWebApi\Employee.csutf-8=
+4D:\aspdotnet\CSharpOPPsRepo\MyFirstWebApi\Program.csutf-8E
+<D:\aspdotnet\CSharpOPPsRepo\MyFirstWebApi\WeatherForecast.csutf-8e
+ZD:\aspdotnet\CSharpOPPsRepo\MyFirstWebApi\obj\Debug\net6.0\MyFirstWebApi.GlobalUsings.g.csutf-8t
+iD:\aspdotnet\CSharpOPPsRepo\MyFirstWebApi\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8c
+XD:\aspdotnet\CSharpOPPsRepo\MyFirstWebApi\obj\Debug\net6.0\MyFirstWebApi.AssemblyInfo.csutf-8v
+kD:\aspdotnet\CSharpOPPsRepo\MyFirstWebApi\obj\Debug\net6.0\MyFirstWebApi.MvcApplicationPartsAssemblyInfo.csutf-8
